@@ -1,0 +1,23 @@
+:root{
+
+}
+
+body{
+
+}
+
+.logo{
+    max-width: 100px;
+}
+
+table{
+    border-collapse:collapse;
+}
+
+table, th, td{
+    border: 2px solid black;
+}
+
+th, td{
+    padding: 10px;
+}
