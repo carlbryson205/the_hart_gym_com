@@ -193,8 +193,9 @@ ul li:hover {
 
 .Benefits-grid img {
     width: 150px;
-    height: auto;
+    height: 120px;
     margin-bottom: 0.8rem;
+    border: #00b06b 2px solid;
 }
 
 .Benefits-grid p {
